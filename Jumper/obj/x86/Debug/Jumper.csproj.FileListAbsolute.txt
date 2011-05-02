@@ -1,6 +1,0 @@
-c:\users\hugo\documents\visual studio 2010\Projects\Jumper\Jumper\bin\Debug\Jumper.exe.config
-c:\users\hugo\documents\visual studio 2010\Projects\Jumper\Jumper\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\hugo\documents\visual studio 2010\Projects\Jumper\Jumper\bin\Debug\Jumper.exe
-c:\users\hugo\documents\visual studio 2010\Projects\Jumper\Jumper\bin\Debug\Jumper.pdb
-c:\users\hugo\documents\visual studio 2010\Projects\Jumper\Jumper\obj\x86\Debug\Jumper.exe
-c:\users\hugo\documents\visual studio 2010\Projects\Jumper\Jumper\obj\x86\Debug\Jumper.pdb
