@@ -24,7 +24,6 @@ DEL ""%~dp0__JUMPER_EXECUTE.BAT""
 
         #endregion
 
-
         #region Constructors
 
         public JumperSettings() {
