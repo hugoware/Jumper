@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<JumperSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Commands>
+    <JumperCommand>
+      <Name>trackabout</Name>
+      <Command>cd /d d:\trackabout\%0\</Command>
+      <ArgumentPrefix>%</ArgumentPrefix>
+      <QuietMode>false</QuietMode>
+    </JumperCommand>
+    <JumperCommand>
+      <Name>runner</Name>
+      <Command>runner</Command>
+      <ArgumentPrefix />
+      <Path>C:\tmp</Path>
+      <QuietMode>true</QuietMode>
+    </JumperCommand>
+    <JumperCommand>
+      <Name>ta-updatedb</Name>
+      <Command>updateLocalDatabases.bat</Command>
+      <ArgumentPrefix />
+      <Path>D:\TrackAbout\SVN\Trunk\Source\DotNetCode\TrackAbout</Path>
+      <QuietMode>true</QuietMode>
+    </JumperCommand>
+    <JumperCommand>
+      <Name>ta-source</Name>
+      <Command>cd D:\TrackAbout\SVN\Trunk\Source\DotNetCode\TrackAbout\</Command>
+      <ArgumentPrefix />
+      <QuietMode>true</QuietMode>
+    </JumperCommand>
+  </Commands>
+</JumperSettings>
