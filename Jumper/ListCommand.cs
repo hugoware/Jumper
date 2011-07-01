@@ -12,8 +12,12 @@ namespace Jumper {
         }
 
         public override void Run() {
+            if (this.Settings.Commands.Count == 0) {
+                Console.WriteLine("No commands are saved yet.");
+                return;
+            }
 
-            //get the longest command value
+            //get the longest command name
             int longest = this.Settings.Commands.Max(item => item.Name.Length) + 5;
 
             //add each item
